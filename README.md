@@ -22,7 +22,7 @@ La planta, de acuerdo al esquema mostrado a continuación, puede desarrollarse e
 
 ## Compontentes
 
-En el reporte se debe de incluir una tabla que indique los valores[^1] de resistencias y capacitores utilizados en la planta[^1].
+En el reporte se debe de incluir una tabla que indique los valores[^1] de resistencias y capacitores utilizados en la planta[^2].
 
 [^1]:Los valores indicados deberán coincidir con los cálculos, simulaciones y corridas _"on the wire"_ de la planta.
 [^2]:Los valores de resistencias y capacitores no pueden ser iguales entre equipos, i.e. cada planta es **diferente** a las demás.
