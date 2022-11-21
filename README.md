@@ -42,8 +42,9 @@ En el reporte se debe de incluir una tabla que indique los valores[^1] de resist
 * Desarrolle el sistema a partir de componentes simples.
 * Calcule el valor de las capacitancias y resistencias de manera que las constantes de tiempo sean tales que puedan ser analizadas por la placa del Arduino.
 * Anote los valores de las resistencias y capacitores utilizados en la tabla proporcionada (genere una igual en el reporte).
-* Simule el sistema en las plantillas de python (Jupyter lab) facilitadas en las sesiones del curso.
+* Simule el sistema en las plantillas de python (Jupyter lab[^3]) facilitadas en las sesiones del curso.
 * Incluya en su reporte un análisis de la diferencia entre el sistema simulado y el real.
+[^3]:Todas las plantillas están preparadas para poder utilizarse en la plataforma COLAB, por lo que no es estrictamente necesario instalar software en su sistema.
 
 ## Elementos de análisis, cálculo y desarrollo a incluir en el reporte
 
