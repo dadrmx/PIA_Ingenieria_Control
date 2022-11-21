@@ -53,9 +53,9 @@ En el reporte se debe de incluir una tabla que indique los valores[^1] de resist
     * Respuesta a entrada escalón del sistema*.
     * Error de estado estacionario a una entrada escalón del sistema*.
     * Calcule la ganancia K del sistema para que la planta se comporte:
-        a) Criticamente estable*.
-        b) Sin amortiguamiento*.
-        c) Un amortiguamiento de ξ = .30*.
+         a) Criticamente estable*.
+         b) Sin amortiguamiento*.
+         c) Un amortiguamiento de ξ = .30*.
 * ¿Cuál es la síntesis de comportamiento del sistema?
 Para cada respuesta marcada con “*” genere la impresión a partir del puerto serial del sistema.
 
